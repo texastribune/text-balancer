@@ -40,3 +40,11 @@ textBalancer.initialize('.headline, .interactive-leadin, #horse-god');
 textBalancer.balanceText();
 </script>
 ```
+
+### Texas Tribune changes
+Per license requirements, you can see a list of Texas Tribune modifications by viewing this repository's commit history on GitHub. Additionally, there are comments atop changed files where possible. We have modified/created the following files:
+- `package.json`
+- `yarn.lock`
+- `.gitignore`
+- `README.md`
+- `text-balancer.js`

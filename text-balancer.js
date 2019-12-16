@@ -1,3 +1,8 @@
+/*
+    As required by the license, this is a notice The Texas Tribune
+    modified line 31 to include the `var` reserved word.
+*/
+
 var candidates = [];
 
 // pass in a string of selectors to be balanced.
