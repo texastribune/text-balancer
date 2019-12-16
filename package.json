@@ -1,6 +1,6 @@
 {
   "name": "@texastribune/text-balancer",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Plugin to balance text",
   "main": "text-balancer.js",
   "scripts": {
