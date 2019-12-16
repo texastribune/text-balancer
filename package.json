@@ -1,11 +1,23 @@
 {
-  "name": "text-balancer",
-  "version": "1.0.5",
+  "name": "@texastribune/text-balancer",
+  "version": "0.0.0",
   "description": "Plugin to balance text",
   "main": "text-balancer.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "release": "np --no-tests"
   },
   "author": "Michael Beswetherick",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "np": "^5.2.1"
+  },
+  "files": [
+    "LICENSE.md",
+    "package.json",
+    "yarn.lock",
+    "text-balancer.js"
+  ],
+  "publishConfig": {
+    "access": "public"
+  }
 }
