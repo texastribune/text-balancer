@@ -1,3 +1,5 @@
+This is a fork of a [New York times package](https://github.com/nytimes/text-balancer). See below for details of modifications made.
+
 # text-balancer
 
 Text-balancer is a javascript module that seeks to eliminate typographic widows from text. It does this by setting the max-width of the dom node to the threshold that it would spill onto another line.
